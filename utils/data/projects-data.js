@@ -29,7 +29,7 @@ export const projectsData = [
     {
         id: 4,
         name: 'Segway',
-        description: "I have designed and developed website called Segway. I created the UI using React, Typescript, TailwindCSS. I developed the API using db.json. Users can view the products(scooters and accessories), add them to the cart, and place an order. I deployed the front-end app to Netlify",
+        description: "I have designed and developed website called Segway. I created the UI using React, Typescript, TailwindCSS. I developed the API using db.json. Users can view the products(scooters and accessories), add them to the cart, and place an order. I added multiple languages, English and Uzbek. I deployed the front-end app to Netlify",
         tools: ['React', 'Vite', 'React-Query', 'Axios', "TypeScript", "Tailwind CSS", "React-Router", "Antd", "Swiper"],
         code: '',
         demo: '',
