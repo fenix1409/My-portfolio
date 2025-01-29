@@ -1,24 +1,12 @@
-<p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
-</p>
-
 ---
 
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
+# [Built Portfolio With GitHub ](https://github.com/fenix1409/My-portfolio)
 
 ---
 
 # Developer Portfolio
 
 #### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
-
----
-
-# Demo :movie_camera:
-
-![](./public/image/screen.png)
-
-## View live preview [here](https://abusaid.netlify.app/).
 
 ---
 
@@ -151,20 +139,18 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
-  profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  name: "ORIPOV BOBUR",
+  profile: "/fnx.jpeg",
+  designation: "Frontend Web Developer",
+  description: "My name is Bobur....",
+  email: "example@gmail.com",
+  phone: "+123456789",
+  address: "Tashkent, Uzbekistan",
+  github: "https://github.com/fenix1409",
+  facebook: "https://www.facebook.com/yourfacebook/",
+  linkedIn: "https://www.linkedin.com/in/yourlinkedin/",
+  twitter: "https://twitter.com/yourtwitter",
+  devUsername: "yourusername",
   resume: "...",
 };
 ```
