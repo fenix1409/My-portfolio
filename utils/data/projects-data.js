@@ -34,6 +34,15 @@ export const projectsData = [
         code: '',
         demo: '',
         role: 'Frontend Developer',
+    },
+    {
+        id: 5,
+        name: 'Ashyo',
+        description: "I have designed and developed website called Segway. Ashyo is an e-commerce platform designed for seamless online shopping. It includes user authentication, a product catalog, cart management, and a wishlist. Built with Next.js, React, TypeScript, Tailwind CSS, Redux Toolkit, React Query, Hero-UI,  and Axios, it ensures a smooth, responsive, and efficient user experience.",
+        tools: ['Next.JS', 'React-Query', 'Axios', "TypeScript", "Tailwind CSS", "Hero-UI", "Swiper"],
+        code: '',
+        demo: '',
+        role: 'Frontend Developer'
     }
 ];
 

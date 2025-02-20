@@ -3,6 +3,8 @@
 import * as React from 'react';
 
 function ProjectCard({ project }) {
+  console.log(project);
+  
 
   return (
     <div className="from-[#0d1224] border-[#1b2c68a0] relative rounded-lg border bg-gradient-to-r to-[#0a0d37] w-full">
