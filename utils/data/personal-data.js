@@ -8,7 +8,7 @@ export const personalData = {
   address: 'Yunusabad, Tashkent, Uzbekistan',
   github: 'https://github.com/fenix1409',
   telegram: 'https://t.me/Bobur_Oripov',
-  linkedIn: 'https://www.linkedin.com/in/boburjon-oripov-02064a315',
+  linkedIn: 'https://www.linkedin.com/in/bobur-oripov-02064a315/',
   twitter: 'https://twitter.com/said7388',
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/said3812/",
