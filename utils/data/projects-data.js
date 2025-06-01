@@ -17,7 +17,7 @@ export const projectsData = [
         tools: ['JavaScript', 'React', 'Tailwind Css', 'Axios', 'React-Query', 'TMDB API'],
         role: 'Frontend Developer',
         github: 'https://github.com/fenix1409/Spotify',
-        demo: 'https://spotify-omega-steel.vercel.app/',
+        demo: 'https://films-kappa-one.vercel.app/',
     },
     {
         id: 2,
