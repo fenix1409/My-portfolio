@@ -1,16 +1,6 @@
 export const projectsData = [
     {
         id: 1,
-        name: 'Spotify',
-        image: "/project-image/spotify.png",
-        description: "I built a Spotify clone, a modern music streaming web application, using Next.js, TypeScript, Tailwind CSS, and Supabase. The app allows users to upload, manage, and stream their favorite music seamlessly. Audio streaming is handled efficiently using custom React hooks. The UI is not fully responsive and optimized for a smooth user experience. Users can also create playlists, like songs, and enjoy a personalized music library. This project showcases my expertise in modern frontend development, performance optimization. REMEMBER THAT PROJECT BUILT WITH DB.JSON",
-        tools: ['JavaScript', 'React', 'Html', 'Css', 'Axios'],
-        role: 'Frontend Developer',
-        github: 'https://github.com/fenix1409/Spotify',
-        demo: 'https://spotify-omega-steel.vercel.app/',
-    },
-    {
-        id: 14,
         name: 'Movies',
         image: "/project-image/movies.png",
         description: "Movies is a website that allows users to search for movies, view details, and explore trending films. Built with React, JavaScript, and Tailwind CSS, it features a responsive design and utilizes the TMDB API for movie data. The project includes viewing details of movies, displaying many categories and etc.",
@@ -26,7 +16,7 @@ export const projectsData = [
         description: 'Picnick is a modern web application designed for sharing and discovering picnic spots. It features a user-friendly interface built with React, TypeScript, and Tailwind CSS. The project utilizes React Query for efficient data fetching and state managenent, and Axios for API requests.',
         tools: ['React', 'Tailwind', 'CSS', 'TypeScript', 'Redux-toolkit', 'React-Query', 'Axios'],
         github: 'https://github.com/fenix1409/Picnik',
-        demo: "https://picnik.vercel.app/",
+        demo: "https://www.piknicuz.com/",
         role: 'Frontend Developer',
     },
     {
