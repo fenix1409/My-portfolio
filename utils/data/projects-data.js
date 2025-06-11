@@ -56,16 +56,6 @@ export const projectsData = [
         tools: ['Next.js', 'Tailwind Css', 'TypeScript', 'Redux-toolkit', 'React Query', 'Hero UI', 'Axios', 'Swiper'],
         github: 'https://github.com/fenix1409/ashyo_fullstack',
         role: 'Frontend Developer'
-    },
-    {
-        id: 7,
-        name: 'Moon-project',
-        image: "/project-image/moon.png",
-        description: "A long time ago I designed and developed website called Moon with team. Moon is a platform that provides information about the different planets in our solar system. The platform features user-friendly, responsive design. It's built with Html, Scss",
-        tools: ['Html', 'Scss', 'Css'],
-        github: 'https://github.com/fenix1409/Moon',
-        demo: "https://moon-rho-ashy.vercel.app/",
-        role: 'Frontend Developer'
     }
 ];
 
