@@ -10,6 +10,16 @@ export const projectsData = [
         demo: 'https://films-kappa-one.vercel.app/',
     },
     {
+        id: 1110,
+        name: 'Codeflex | AI',
+        image: "/project-image/codeflex.png",
+        description: "Codeflex AI is a fitness trainer app that uses AI to provide personalized workout plans and nutrition advice. It features a sleek, modern design built with Next.js and TypeScript, and utilizes Vapi Voice AI for voice interactions. The app is fully responsive and optimized for both dekstop and mobile devices. It integrates Clerk for user authentication and Convex API for backend services, ensuring a seamless user experience.",
+        tools: ['TypeScript', 'Next.JS', 'Tailwind Css', 'Vapi Voice AI', 'React-Query', 'Convex API', 'Gemini AI', 'Clerk Authication'],
+        role: 'Frontend Developer',
+        github: 'https://github.com/fenix1409/codeflex-ai',
+        demo: 'https://codeflex-ai-khaki.vercel.app/',
+    },
+    {
         id: 2,
         name: 'Picnick',
         image: "/project-image/picnick.png",
